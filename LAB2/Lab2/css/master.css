@@ -1,0 +1,28 @@
+#page-container{
+    width: 760px;
+}
+
+#content{
+    margin-right: 250px;
+    background: white;
+
+}
+
+#sidebar{
+    float: right;
+    width: 250px;
+    background-color: yellow;
+}
+
+h1,h2{
+    margin:0;
+    padding: 0;
+}
+
+h1{
+    background-color: lightgreen;
+}
+
+h2{
+    background-color: aqua;
+}
